@@ -24,7 +24,7 @@ My analysis uncovered a startling statistic: **~38% of all booking requests fail
 
 > **Observation:** Drivers are cancelling trips 2.5x more often than customers. This suggests a misalignment in incentives or operational issues (e.g., traffic, low fare visibility).
 
-*(status.png)*
+[status.png]
 
 ### 2. Temporal Patterns: The 6 PM Struggle
 By mapping demand against time, I identified clear patterns:
@@ -32,7 +32,7 @@ By mapping demand against time, I identified clear patterns:
 * **Supply Gap:** The highest frequency of "No Driver Found" errors also happens exactly at **6:00 PM**.
 * **Insight:** We are losing the most potential revenue exactly when customers need us the most.
 
-*(hour3.png)*
+[hour3.png]
 
 ### 3. Revenue & Fleet Efficiency
 I analyzed the financial performance of different vehicle types:
@@ -40,7 +40,7 @@ I analyzed the financial performance of different vehicle types:
 * **Margin Leader:** **"Go Sedan"** generates the highest Revenue Per KM (~34.6/km), making it the most efficient per unit of distance.
 * **Underperformer:** **"Uber XL"** shows very low utilization, suggesting a need to revisit its pricing or availability strategy.
 
-*(km3.png)*
+[km3.png]
 
 ## 💡 Strategic Recommendations
 Based on the data, I propose the following actions:
